@@ -7,6 +7,7 @@ import {
   Validators } from '@angular/forms';
 import {AlertService} from '../../services/alert.service';
 import { TranslateService } from '@ngx-translate/core';
+import { AppService } from '../../services/app.service';
 
 @Component({
   selector: 'app-form',
@@ -45,7 +46,7 @@ export class FormComponent implements OnInit, OnChanges {
   public disable_check_button = false;
 
   constructor(private formBuilder: FormBuilder, private alertService: AlertService,
-    private translateService: TranslateService) {}
+    private translateService: TranslateService, private appService: AppService) {}
 
   ngOnInit() {
     this.generate_form();
@@ -60,17 +61,21 @@ export class FormComponent implements OnInit, OnChanges {
   public generate_form() {
 
     const group = [];
+    if (this.appService.getConfig()['enableIPv4']) {
+      group.push(new FormGroup({
+        key: new FormControl('ipv4'),
+        value: new FormControl('IPv4'),
+        checked: new FormControl(false)
+      }));
+    }
 
-    group.push(new FormGroup({
-      key: new FormControl('ipv4'),
-      value: new FormControl('IPv4'),
-      checked: new FormControl(false)
-    }));
-    group.push(new FormGroup({
-      key: new FormControl('ipv6'),
-      value: new FormControl('IPv6'),
-      checked: new FormControl(false)
-    }));
+    if (this.appService.getConfig()['enableIPv6']) {
+      group.push(new FormGroup({
+        key: new FormControl('ipv6'),
+        value: new FormControl('IPv6'),
+        checked: new FormControl(false)
+      }));
+    }
 
     const formControlArray = new FormArray(group);
 
