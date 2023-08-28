@@ -1655,7 +1655,7 @@
           <context context-type="linenumber">39</context>
         </context-group>
         <note priority="1" from="description">Afnic link</note>
-        <target state="needs-translation">https://www.afnic.fr/en/</target>
+        <target state="translated">https://www.afnic.fr</target>
       </trans-unit>
     </body>
   </file>
