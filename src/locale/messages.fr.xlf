@@ -974,7 +974,7 @@
           <context context-type="linenumber">30</context>
         </context-group>
         <note priority="1" from="meaning">faq answer</note>
-        <target state="needs-translation">The components will help different types of users to check domain servers for configuration errors and generate a report that will assist in fixing the errors.</target>
+        <target state="translated">Ces composants aideront différents types d'utilisateurs à vérifier les erreurs de configuration des serveurs de domaine et à générer un rapport qui aidera à corriger les erreurs.</target>
       </trans-unit>
       <trans-unit id="3576312d1c167a67839eb824a4d1aa3b8250c0b3" datatype="html">
         <source> The judgement of Zonemaster is primarily based on the DNS standards as defined in <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://en.wikipedia.org/wiki/Request_for_Comments&quot;&gt;"/>RFCs<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. It also bases its judgement on DNS best practices, which can be more loosely defined. </source>
