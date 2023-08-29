@@ -956,7 +956,7 @@
           <context context-type="linenumber">121,123</context>
         </context-group>
         <note priority="1" from="meaning">faq answer</note>
-        <target state="needs-translation"> Nothing beside the test domain, other test parameters and the result is stored in the database. Specifically we do not store any information that could link a test to the user who initiated it. </target>
+        <target state="translated"> Rien hormis le domaine du test, les autres paramètres du test et le résultat n'est stocké dans la base de données. En particulier, nous ne stockons aucune information qui pourrait lier un test à la personne qui l'a initié. </target>
       </trans-unit>
       <trans-unit id="2dfbdb274c9ce121f7c3fa2557219062b495f650" datatype="html">
         <source> How can Zonemaster distinguish between what is right and wrong? </source>
@@ -965,7 +965,7 @@
           <context context-type="linenumber">82,84</context>
         </context-group>
         <note priority="1" from="meaning">faq question</note>
-        <target state="needs-translation"> How can Zonemaster distinguish between what is right and wrong? </target>
+        <target state="translated"> Comment Zonemaster discerne-t-il le bon du mauvais ? </target>
       </trans-unit>
       <trans-unit id="31278856630af7de09a12cecc71ea39ec21fbe2f" datatype="html">
         <source>The components will help different types of users to check domain servers for configuration errors and generate a report that will assist in fixing the errors.</source>
