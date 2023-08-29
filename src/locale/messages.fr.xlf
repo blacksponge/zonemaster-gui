@@ -100,7 +100,7 @@
           <context context-type="linenumber">53</context>
         </context-group>
         <note priority="1" from="description">form label</note>
-        <target state="needs-translation">Options</target>
+        <target state="translated">Options</target>
       </trans-unit>
       <trans-unit id="1a59ce56e34ee3e09cdb464315fd929a35e4a579" datatype="html">
         <source>Disable IPv4</source>
@@ -360,7 +360,7 @@
           <context context-type="linenumber">121</context>
         </context-group>
         <note priority="1" from="description">info filter button</note>
-        <target state="needs-translation">Info</target>
+        <target state="translated">Info</target>
       </trans-unit>
       <trans-unit id="bafecf51738eee6e4a0d7b62cbc5dc156be6cf3d" datatype="html">
         <source>Notice</source>
@@ -436,7 +436,7 @@
           <context context-type="sourcefile">src/app/components/result/result.component.ts</context>
           <context context-type="linenumber">336</context>
         </context-group>
-        <target state="needs-translation">Module</target>
+        <target state="translated">Module</target>
       </trans-unit>
       <trans-unit id="3733215288982610673" datatype="html">
         <source>Level</source>
@@ -452,7 +452,7 @@
           <context context-type="sourcefile">src/app/components/result/result.component.ts</context>
           <context context-type="linenumber">338</context>
         </context-group>
-        <target state="needs-translation">Message</target>
+        <target state="translated">Message</target>
       </trans-unit>
       <trans-unit id="7104935342812835081" datatype="html">
         <source>Please set the api endpoint</source>
@@ -551,7 +551,7 @@
           <context context-type="linenumber">132</context>
         </context-group>
         <note priority="1" from="description">form section</note>
-        <target state="translated">Enregistrement DS</target>
+        <target state="translated">Enregistrements DS</target>
       </trans-unit>
       <trans-unit id="51ec22e1dae591a194ac7448bb769dc8d49caa5f" datatype="html">
         <source>Clear domain input</source>
@@ -606,7 +606,7 @@
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">247,249</context>
         </context-group>
-        <target state="needs-translation">««</target>
+        <target state="translated">««</target>
       </trans-unit>
       <trans-unit id="ngb.pagination.first-aria" datatype="html">
         <source>First</source>
@@ -622,7 +622,7 @@
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">305,307</context>
         </context-group>
-        <target state="needs-translation">»»</target>
+        <target state="translated">»»</target>
       </trans-unit>
       <trans-unit id="ngb.pagination.last-aria" datatype="html">
         <source>Last</source>
@@ -638,7 +638,7 @@
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">290</context>
         </context-group>
-        <target state="needs-translation">»</target>
+        <target state="translated">»</target>
       </trans-unit>
       <trans-unit id="ngb.pagination.next-aria" datatype="html">
         <source>Next</source>
@@ -654,7 +654,7 @@
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
           <context context-type="linenumber">266</context>
         </context-group>
-        <target state="needs-translation">«</target>
+        <target state="translated">«</target>
       </trans-unit>
       <trans-unit id="ngb.pagination.previous-aria" datatype="html">
         <source>Previous</source>
@@ -672,9 +672,8 @@
           <context context-type="sourcefile">node_modules/src/progressbar/progressbar.ts</context>
           <context context-type="linenumber">64,67</context>
         </context-group>
-        <target state="needs-translation">
-          <x id="INTERPOLATION" equiv-text="rogress bar."/>
-        </target>
+        <target state="translated">
+<x id="INTERPOLATION" equiv-text="rogress bar."/>        </target>
       </trans-unit>
       <trans-unit id="02de72ecb8a333fc270d81e7979f5f16ad51bd15" datatype="html">
         <source> When a domain name is sent to Zonemaster for testing, Zonemaster investigates the state of the domain name from the top to the bottom of the DNS tree. This is usually done by examining DNS data from the root, &apos;.&apos;, to the Top-Level Domain (TLD) for that domain name, like &apos;.net&apos;, and then finally through the DNS servers that contain authoritative information about the specified domain name. </source>
@@ -682,7 +681,7 @@
           <context context-type="sourcefile">src/app/components/domain/domain.component.html</context>
           <context context-type="linenumber">16,23</context>
         </context-group>
-        <target state="needs-translation"> When a domain name is sent to Zonemaster for testing, Zonemaster investigates the state of the domain name from the top to the bottom of the DNS tree. This is usually done by examining DNS data from the root, '.', to the Top-Level Domain (TLD) for that domain name, like '.net', and then finally through the DNS servers that contain authoritative information about the specified domain name. </target>
+        <target state="translated"> Lorsqu'un nom de domaine est envoyé à Zonemaster pour être testé, Zonemaster vérifie l'état du nom de domaine de haut vers bas de l'arborescence DNS. Cela est généralement fait en examinant les données DNS depuis la racine, « . » , au domaine de premier niveau (Top-Level Domain, TLD) pour ce nom de domaine, comme « .net », et enfin jusqu'aux serveurs de noms contenant des informations faisant autorité sur le nom de domaine spécifié. </target>
       </trans-unit>
       <trans-unit id="08d618cac3fb7211daea88b1f94346e12a66db93" datatype="html">
         <source>More information on undelegated test: </source>
@@ -691,7 +690,7 @@
           <context context-type="linenumber">61</context>
         </context-group>
         <note priority="1" from="description">form info</note>
-        <target state="needs-translation">More information on undelegated test: </target>
+        <target state="translated">Plus d'information sur les tests non délégués : </target>
       </trans-unit>
       <trans-unit id="169f2780022394b9d611871fe34c2cb87f759ed2" datatype="html">
         <source>Reset form</source>
@@ -700,7 +699,7 @@
           <context context-type="linenumber">293</context>
         </context-group>
         <note priority="1" from="description">form button</note>
-        <target state="needs-translation">Reset form</target>
+        <target state="translated">Réinitialiser le formulaire</target>
       </trans-unit>
       <trans-unit id="1f8e926cdad26808d3176cb86eeeb229a777a026" datatype="html">
         <source>Expand all</source>
@@ -709,7 +708,7 @@
           <context context-type="linenumber">160</context>
         </context-group>
         <note priority="1" from="description">result filter messages</note>
-        <target state="needs-translation">Expand all</target>
+        <target state="translated">Tout développer</target>
       </trans-unit>
       <trans-unit id="224e64301b59f664f2c12cc122af4a74c1e7c861" datatype="html">
         <source>Delete nameserver #<x id="INTERPOLATION" equiv-text="{{i + 1}}"/></source>
@@ -718,7 +717,7 @@
           <context context-type="linenumber">116</context>
         </context-group>
         <note priority="1" from="description">form button</note>
-        <target state="needs-translation">Delete nameserver #<x id="INTERPOLATION" equiv-text="{{i + 1}}"/></target>
+        <target state="translated">Supprimer le serveur de noms #<x id="INTERPOLATION" equiv-text="{{i + 1}}"/></target>
       </trans-unit>
       <trans-unit id="28c3ac557314fb526258cf6cbb8912bacb769dd6" datatype="html">
         <source>What is Zonemaster?</source>
@@ -726,7 +725,7 @@
           <context context-type="sourcefile">src/app/components/domain/domain.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
-        <target state="needs-translation">What is Zonemaster?</target>
+        <target state="translated">Qu'est-ce que Zonemaster ?</target>
       </trans-unit>
       <trans-unit id="2ab292382051ee24f6ab19bc30bbc9441b87a0c0" datatype="html">
         <source>Nameserver #<x id="INTERPOLATION" equiv-text="{{ i + 1}}"/></source>
@@ -735,7 +734,7 @@
           <context context-type="linenumber">72</context>
         </context-group>
         <note priority="1" from="description">form section</note>
-        <target state="needs-translation">Nameserver #<x id="INTERPOLATION" equiv-text="{{ i + 1}}"/></target>
+        <target state="translated">Serveur de noms #<x id="INTERPOLATION" equiv-text="{{ i + 1}}"/></target>
       </trans-unit>
       <trans-unit id="16c524d367257c456b953c221cc13ac2853742ed" datatype="html">
         <source>Run the test! </source>
@@ -744,7 +743,7 @@
           <context context-type="linenumber">45,46</context>
         </context-group>
         <note priority="1" from="description">form button</note>
-        <target state="needs-translation">Run the test! </target>
+        <target state="translated">Lancer le test ! </target>
       </trans-unit>
       <trans-unit id="351be4ee5c5d1b5e7ef0c9bcb249afbb0ab29817" datatype="html">
         <source>The name of nameserver is required</source>
@@ -753,7 +752,7 @@
           <context context-type="linenumber">89</context>
         </context-group>
         <note priority="1" from="description">form error</note>
-        <target state="needs-translation">The name of nameserver is required</target>
+        <target state="translated">Le nom du serveur de noms est requis</target>
       </trans-unit>
       <trans-unit id="255d96131461b1ca39042ed189d413ca36787cd9" datatype="html">
         <source> Copyright © AFNIC and The Swedish Internet Foundation </source>
@@ -762,7 +761,7 @@
           <context context-type="linenumber">26,28</context>
         </context-group>
         <note priority="1" from="meaning">footer</note>
-        <target state="needs-translation"> Copyright © AFNIC and The Swedish Internet Foundation </target>
+        <target state="translated"> Copyright © AFNIC et The Swedish Internet Foundation </target>
       </trans-unit>
       <trans-unit id="5f39808253bf1249710d31122c137f6bee478e3f" datatype="html">
         <source>Delete DS record #<x id="INTERPOLATION" equiv-text="{{i + 1}}"/></source>
@@ -771,7 +770,7 @@
           <context context-type="linenumber">237</context>
         </context-group>
         <note priority="1" from="description">form button</note>
-        <target state="needs-translation">Delete DS record #<x id="INTERPOLATION" equiv-text="{{i + 1}}"/></target>
+        <target state="translated">Supprimer l'enregistrement DS #<x id="INTERPOLATION" equiv-text="{{i + 1}}"/></target>
       </trans-unit>
       <trans-unit id="6b48c7f8dc821a21cc57e5fc802a8ba337335b23" datatype="html">
         <source>Check how your domain is doing</source>
@@ -779,7 +778,7 @@
           <context context-type="sourcefile">src/app/components/domain/domain.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
-        <target state="needs-translation">Check how your domain is doing</target>
+        <target state="translated">Vérifier l'état de votre domaine</target>
       </trans-unit>
       <trans-unit id="7ee5780420cd764b9f266d8948e999f38288c0e1" datatype="html">
         <source> The Domain Name System (DNS) is a database that associates domain names to Internet Protocol (IP) addresses, the same way a phone book associates names to phone numbers. An IP address is a unique series of numbers that identifies every computer that is connected to the Internet. It is similar to the way every telephone has its own number in the telephone network. Such long series of numbers work fine for computers, but for people it is way more difficult to memorize. Thus, the DNS has been developed as an extra layer to map between names that we can remember better and IP addresses used by computers whenever we want to reach a specific website or use other services on the Internet, like e-mail. </source>
@@ -787,7 +786,7 @@
           <context context-type="sourcefile">src/app/components/domain/domain.component.html</context>
           <context context-type="linenumber">35,45</context>
         </context-group>
-        <target state="needs-translation"> The Domain Name System (DNS) is a database that associates domain names to Internet Protocol (IP) addresses, the same way a phone book associates names to phone numbers. An IP address is a unique series of numbers that identifies every computer that is connected to the Internet. It is similar to the way every telephone has its own number in the telephone network. Such long series of numbers work fine for computers, but for people it is way more difficult to memorize. Thus, the DNS has been developed as an extra layer to map between names that we can remember better and IP addresses used by computers whenever we want to reach a specific website or use other services on the Internet, like e-mail. </target>
+        <target state="translated"> Le Système de Nom de Domaine (DNS) est une base de données qui associe des noms de domaine à des adresses IP (Internet Protocol), de la même manière qu’un annuaire associe des noms à des numéros de téléphone. Une adresse IP est un identifiant numérique unique qui identifie chaque ordinateur connecté à Internet, de la même manière que chaque téléphone a son propre numéro dans le réseau téléphonique. Ces identifiants numériques complexes conviennent parfaitement aux ordinateurs, mais sont beaucoup plus difficiles à mémoriser pour des humains. C’est pour cela que le DNS a été développé, pour établir une correspondance entre des noms que nous pouvons plus facilement retenir et les adresses IP utilisées par les ordinateurs lorsqu’on veut accéder à un site Web ou utiliser d’autres services sur Internet, comme le courriel. </target>
       </trans-unit>
       <trans-unit id="836dac7b9224736364cb37af938fd29f18c086d6" datatype="html">
         <source>Test your domain</source>
@@ -795,7 +794,7 @@
           <context context-type="sourcefile">src/app/components/domain/domain.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
-        <target state="needs-translation">Test your domain</target>
+        <target state="translated">Tester votre domaine</target>
       </trans-unit>
       <trans-unit id="869de38138d7f0575f2e8b8de63a09edb3b00d3e" datatype="html">
         <source>Collapse all</source>
@@ -804,7 +803,7 @@
           <context context-type="linenumber">161</context>
         </context-group>
         <note priority="1" from="description">result filter messages</note>
-        <target state="needs-translation">Collapse all</target>
+        <target state="translated">Replier tout</target>
       </trans-unit>
       <trans-unit id="c5618b693f35bb00c293795ced3f249ead76902f" datatype="html">
         <source>Filter severity levels</source>
@@ -813,7 +812,7 @@
           <context context-type="linenumber">65</context>
         </context-group>
         <note priority="1" from="description">resut filter section</note>
-        <target state="needs-translation">Filter severity levels</target>
+        <target state="translated">Filtrer les niveaux de sévérité</target>
       </trans-unit>
       <trans-unit id="c8c4ddb58314c49a79e4442d75278f9dd564cb09" datatype="html">
         <source>Test another domain</source>
@@ -822,7 +821,7 @@
           <context context-type="linenumber">4</context>
         </context-group>
         <note priority="1" from="description">result subheader</note>
-        <target state="needs-translation">Test another domain</target>
+        <target state="translated">Tester un autre domaine</target>
       </trans-unit>
       <trans-unit id="d0ef3bf3b47bf926f7903adc4b6f3253125b4137" datatype="html">
         <source>Select the digest type</source>
@@ -831,7 +830,7 @@
           <context context-type="linenumber">199</context>
         </context-group>
         <note priority="1" from="description">form label</note>
-        <target state="needs-translation">Select the digest type</target>
+        <target state="translated">Sélectionner le type de condensat</target>
       </trans-unit>
       <trans-unit id="d342222581850cdef8cc857b8a6aa8354cac5ffa" datatype="html">
         <source>My domain name</source>
@@ -840,7 +839,7 @@
           <context context-type="linenumber">3</context>
         </context-group>
         <note priority="1" from="description">form label</note>
-        <target state="needs-translation">My domain name</target>
+        <target state="translated">Mon nom de domaine</target>
       </trans-unit>
       <trans-unit id="e7f4b2bbdff587e9c3a5522ad557c6cc80afa3d0" datatype="html">
         <source>Select the algorithm</source>
@@ -867,7 +866,7 @@
           <context context-type="linenumber">175,177</context>
         </context-group>
         <note priority="1" from="meaning">faq question</note>
-        <target state="needs-translation"> Does Zonemaster support IPv6? </target>
+        <target state="translated"> Zonemaster est-il compatible avec IPv6 ? </target>
       </trans-unit>
       <trans-unit id="0d5f5ad5239ea374caa37a5bb861af864bda09c9" datatype="html">
         <source> Can I test the DS records before they are published? </source>
@@ -876,7 +875,7 @@
           <context context-type="linenumber">193,195</context>
         </context-group>
         <note priority="1" from="meaning">faq question</note>
-        <target state="needs-translation"> Can I test the DS records before they are published? </target>
+        <target state="translated"> Peut-on tester des enregistrements DS avant leur publication ? </target>
       </trans-unit>
       <trans-unit id="0d7a9fc8b4f70faf02a5f9a36e40d0950a1c5ed3" datatype="html">
         <source>Documentation</source>
@@ -894,7 +893,7 @@
           <context context-type="linenumber">59,61</context>
         </context-group>
         <note priority="1" from="meaning">faq question</note>
-        <target state="needs-translation"> What makes Zonemaster different from other DNS zone validating software? </target>
+        <target state="translated"> Qu'est-ce qui distingue Zonemaster des autres outils de validation de zone DNS ? </target>
       </trans-unit>
       <trans-unit id="1e9841ac0f9d12956aac3e7f8185495ad8cbd339" datatype="html">
         <source> To check a reverse zone with Zonemaster, one first needs to know what the reverse zone is, and enter it in the format it has in the DNS. A reserve zone is obtained by reversing an IP address and adding a suffix. IPv4 addresses use the suffix &quot;in-addr.arpa&quot; while IPv6 addresses use &quot;ip6.arpa&quot;. </source>
@@ -903,7 +902,7 @@
           <context context-type="linenumber">205,207</context>
         </context-group>
         <note priority="1" from="meaning">faq answer</note>
-        <target state="needs-translation"> To check a reverse zone with Zonemaster, one first needs to know what the reverse zone is, and enter it in the format it has in the DNS. A reserve zone is obtained by reversing an IP address and adding a suffix. IPv4 addresses use the suffix "in-addr.arpa" while IPv6 addresses use "ip6.arpa". </target>
+        <target state="translated"> Pour tester une zone inverse, il faut d'abord déterminer le nom de la zone inverse, puis la saisir dans le format qu'elle a dans le DNS. Une zone inverse s'obtient en inversant une adresse IP et en ajoutant un suffixe. Les adresses IPv4 utilisent le suffixe « in-addr.arpa » tandis que les adresses IPv6 utilisent « ip6.arpa ». </target>
       </trans-unit>
       <trans-unit id="215930c9a2283b23e50fd03348284e08d6a01578" datatype="html">
         <source> There are several possibilities. </source>
@@ -912,7 +911,7 @@
           <context context-type="linenumber">137,139</context>
         </context-group>
         <note priority="1" from="meaning">faq answer</note>
-        <target state="needs-translation"> There are several possibilities. </target>
+        <target state="translated"> Il y a plusieurs possibilités. </target>
       </trans-unit>
       <trans-unit id="24d608a6918e84d7997379857ad6548615fdc86b" datatype="html">
         <source>The ambition of the Zonemaster project is to develop and maintain an open source DNS validation tool, offering improved performance over existing tools and providing extensive documentation which could be re-used by similar projects in the future.</source>
@@ -921,7 +920,7 @@
           <context context-type="linenumber">20</context>
         </context-group>
         <note priority="1" from="meaning">faq answer</note>
-        <target state="needs-translation">The ambition of the Zonemaster project is to develop and maintain an open source DNS validation tool, offering improved performance over existing tools and providing extensive documentation which could be re-used by similar projects in the future.</target>
+        <target state="translated">L'ambition du projet Zonemaster est de développer et de maintenir un outil de validation DNS open source, offrant des performances améliorées par rapport aux outils existants et fournissant une documentation complète qui pourrait être réutilisée par des projets similaires à l'avenir.</target>
       </trans-unit>
       <trans-unit id="2739f1ca22f363a5a4af17c6ca240348e86783ea" datatype="html">
         <source> Yes. If DNSSEC is available for a domain name that is tested by Zonemaster, it will be checked automatically. </source>
@@ -930,7 +929,7 @@
           <context context-type="linenumber">187,189</context>
         </context-group>
         <note priority="1" from="meaning">faq answer</note>
-        <target state="needs-translation"> Yes. If DNSSEC is available for a domain name that is tested by Zonemaster, it will be checked automatically. </target>
+        <target state="translated"> Oui. Si DNSSEC est disponible pour un nom de domaine testé par Zonemaster, ce sera automatiquement vérifié. </target>
       </trans-unit>
       <trans-unit id="27c27c772e16a7016eed0e1e9adb245dffb9fe9d" datatype="html">
         <source> Zonemaster and privacy </source>
@@ -939,7 +938,7 @@
           <context context-type="linenumber">118,120</context>
         </context-group>
         <note priority="1" from="meaning">faq response</note>
-        <target state="needs-translation"> Zonemaster and privacy </target>
+        <target state="translated"> Zonemaster et vie privée </target>
       </trans-unit>
       <trans-unit id="283ed49960e425770bbb1e573cd8d3231e9fe52d" datatype="html">
         <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/zonemaster/zonemaster-cli&quot;&gt;"/>CLI<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>,a command-line interface to the Engine;</source>
