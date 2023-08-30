@@ -1584,7 +1584,7 @@
           <context context-type="linenumber">11</context>
         </context-group>
         <note priority="1" from="description">result subheader</note>
-        <target state="needs-translation">Test result for</target>
+        <target state="translated">Résultat du test pour</target>
       </trans-unit>
       <trans-unit id="851258c348e2a703d4a845053c198287c11d5601" datatype="html">
         <source>Created on</source>
@@ -1593,7 +1593,7 @@
           <context context-type="linenumber">13</context>
         </context-group>
         <note priority="1" from="description">result test metadata</note>
-        <target state="needs-translation">Created on</target>
+        <target state="translated">Créé le</target>
       </trans-unit>
     </body>
   </file>
