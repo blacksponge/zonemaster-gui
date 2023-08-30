@@ -1577,23 +1577,23 @@
         <note priority="1" from="description">faq answer</note>
         <target state="translated">Les descriptions de niveaux de messages comme <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>notice<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>, <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>avertissement<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> et <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/>erreur<x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> se trouvent dans <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://github.com/zonemaster/zonemaster/blob/master/docs/public/specifications/tests/SeverityLevelDefinitions.md&quot;&gt;"/>le document de définition des niveaux de sévérités (en anglais)<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
       </trans-unit>
-      <trans-unit id="48de2edd5eeed9c9c57270f6ebb371bdff9937d5" datatype="html">
-        <source>Created on <x id="START_TAG_TIME" ctype="x-time" equiv-text="&lt;time [dateTime]=&quot;test.creation_time ? test.creation_time.toISOString() : &apos;&apos;&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{ test.creation_time | date:&apos;medium&apos; }}"/><x id="CLOSE_TAG_TIME" ctype="x-time" equiv-text="&lt;/time&gt;"/></source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/components/result/result.component.html</context>
-          <context context-type="linenumber">13</context>
-        </context-group>
-        <note priority="1" from="description">result test metadata</note>
-        <target state="needs-translation">Created on <x id="START_TAG_TIME" ctype="x-time" equiv-text="&lt;time [dateTime]=&quot;test.creation_time ? test.creation_time.toISOString() : ''&quot;&gt;"/><x id="INTERPOLATION" equiv-text="{{ test.creation_time | date:'medium' }}"/><x id="CLOSE_TAG_TIME" ctype="x-time" equiv-text="&lt;/time&gt;"/></target>
-      </trans-unit>
-      <trans-unit id="b7489cabc7d27888a670e4672bccfa895df7416f" datatype="html">
-        <source>Test result for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ form.domain }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></source>
+      <trans-unit id="6d41e759de3c0117413b5a6e5b5cd3f44ecb4676" datatype="html">
+        <source>Test result for</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/result/result.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
         <note priority="1" from="description">result subheader</note>
-        <target state="needs-translation">Test result for <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ form.domain }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/></target>
+        <target state="needs-translation">Test result for</target>
+      </trans-unit>
+      <trans-unit id="851258c348e2a703d4a845053c198287c11d5601" datatype="html">
+        <source>Created on</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/result/result.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">result test metadata</note>
+        <target state="needs-translation">Created on</target>
       </trans-unit>
     </body>
   </file>
