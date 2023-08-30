@@ -672,7 +672,7 @@
           <context context-type="sourcefile">src/app/components/domain/domain.component.html</context>
           <context context-type="linenumber">16,23</context>
         </context-group>
-        <target state="translated"> Lorsqu'un nom de domaine est envoyé à Zonemaster pour être testé, Zonemaster vérifie l'état du nom de domaine de haut vers bas de l'arborescence DNS. Cela est généralement fait en examinant les données DNS depuis la racine, « . » , au domaine de premier niveau (Top-Level Domain, TLD) pour ce nom de domaine, comme « .net », et enfin jusqu'aux serveurs de noms contenant des informations faisant autorité sur le nom de domaine spécifié. </target>
+        <target state="translated"> Lorsqu'un nom de domaine est envoyé à Zonemaster pour être testé, Zonemaster vérifie l'état du nom de domaine du haut vers le bas de l'arborescence DNS. Cela est généralement fait en examinant les données DNS depuis la racine, « . » , au domaine de premier niveau (Top-Level Domain, TLD) pour ce nom de domaine, comme « .net », et enfin jusqu'aux serveurs de noms contenant des informations faisant autorité sur le nom de domaine spécifié. </target>
       </trans-unit>
       <trans-unit id="08d618cac3fb7211daea88b1f94346e12a66db93" datatype="html">
         <source>More information on undelegated test: </source>
@@ -1706,7 +1706,7 @@
           <context context-type="linenumber">118</context>
         </context-group>
         <note priority="1" from="description">result info</note>
-        <target state="translated">Que signifie les niveaux de sévérité ?</target>
+        <target state="translated">Quelle est la signification des niveaux de sévérité ?</target>
       </trans-unit>
       <trans-unit id="a77034e6d6ab1e4aaa7bb0669cf726a27b2957c5" datatype="html">
         <source> The message means a problem that is very likely (or possibly certain) to negatively affect the function of the zone being tested, but not so severe that the entire zone becomes unresolvable. </source>
